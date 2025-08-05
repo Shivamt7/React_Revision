@@ -1,0 +1,28 @@
+export const data = [
+  {
+    title: "Apple",
+    image: "https://images.unsplash.com/photo-1516163173352-d1c4d006f9ac?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGFwcGxlfGVufDB8fDB8fHww",
+    description:
+      "Apple describes itself as a company that designs, manufactures and markets mobile communication and media devices, personal computers and portable digital music players, and sells a variety of related software, services, accessories, networking solutions and third-party digital content and applications. The company emphasizes a brand personality centered on lifestyle, imagination, innovation, simplicity, and a heartfelt connection with customers, aiming to remove complexity from people’s lives. Apple’s brand is also defined by its emotional appeal, focusing on values like passion, dreams, and empowerment through technology. Its marketing often tells stories that evoke feelings of delight, surprise, love, and connection, reinforcing a sense of community among users.",
+  },
+  {
+    title: "flipkart",
+    image: "https://images.unsplash.com/photo-1654573817889-296cad084c97?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmxpcGthcnR8ZW58MHx8MHx8fDA%3D",
+    description: "Flipkart is an Indian e-commerce company founded in 2007 by Sachin and Binny Bansal, now majority-owned by Walmart (77.8% stake). Headquartered in Bengaluru, it started as an online bookstore and evolved into a leading marketplace for electronics, fashion, groceries, and more. It operates a B2C model with both third-party sellers and its own inventory, supported by logistics arm Ekart and services like Flipkart Plus (loyalty program), Flipkart Health+, and financial services for sellers. Flipkart dominates key Indian e-commerce segments, holding around 48% market share, with over 100 million registered users. Known for customer-centric innovations like cash-on-delivery and advanced tech use, it became a domestically incorporated Indian company in 2025."
+  },
+  {
+    title: "Google",
+    image: "https://images.unsplash.com/photo-1678483789111-3a04c4628bd6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fGdvb2dsZXxlbnwwfHwwfHx8MA%3D%3D",
+    description: "Google LLC is an American multinational technology company founded in 1998 by Larry Page and Sergey Brin. It specializes in internet services and products, including search, online advertising, cloud computing, Android, YouTube, AI (like Gemini), and consumer hardware. Headquartered in Mountain View, California, Google is the world’s leading search engine and operates the most visited websites (Google and YouTube). In 2015, it became a subsidiary of Alphabet Inc., a holding company created to oversee Google and its other ventures. Sundar Pichai serves as CEO of both Google and Alphabet. Google’s primary revenue source is advertising, which accounted for over half of its $175 billion ad revenue in 2023. It dominates key tech sectors, including mobile (Android), web browsing (Chrome), and online video. Despite its success, Google faces ongoing regulatory scrutiny over antitrust, privacy, and market dominance issues."
+  },
+  {
+    title: "Meesho",
+    image: "https://imgs.search.brave.com/9hQuOCDOP-LuOUfhdK9S5glp4XllfvZ-aQcF2CXHFF8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9hc3Nh/bS1pbmRpYS1hdWd1/c3QtbWVlc2hvLXNl/bGxpbmctYXBwLWxv/Z28tcGhvbmUtc2Ny/ZWVuLWFzc2FtLWlu/ZGlhLWF1Z3VzdC1t/ZWVzaG8tc2VsbGlu/Zy1hcHAtbG9nby1w/aG9uZS1zY3JlZW4t/MTkzNjA4MjkzLmpw/Zw",
+    description: "Meesho is an Indian social commerce platform founded in 2015 by Vidit Aatrey and Sanjeev Barnwal, headquartered in Bengaluru, that empowers individuals—especially in tier 2, 3, and 4 cities—to become resellers by sharing products via WhatsApp, Instagram, and other social platforms. Operating on a 0% commission model, it enables small entrepreneurs, homemakers, and students to start businesses with zero investment, handling logistics, payments, and customer support while allowing resellers to earn margins. With over 120 million monthly active users, $6.2 billion+ in gross merchandise value, and a focus on affordable, unbranded products in fashion, beauty, and home essentials, Meesho has become the first profitable horizontal e-commerce company in India. Backed by investors like SoftBank, Sequoia, and Meta, it achieved profitability in 2023 and launched its logistics marketplace Valmo in 2024, reinforcing its mission to democratize e-commerce across the country."
+  },
+  {
+    title: "Shopsy",
+    image: "https://imgs.search.brave.com/iSvz4wmKUDaqSD7I0XXKffpv3t44YmrbTW14uBcHJqg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9ha20t/aW1nLWEtaW4udG9z/c2h1Yi5jb20vYnVz/aW5lc3N0b2RheS9p/bWFnZXMvc3Rvcnkv/MjAyMzAyL3VudGl0/bGVkLTExLXNpeHRl/ZW5fbmluZS5qcGc_/c2l6ZT05NDg6NTMz",
+    description: "Shopsy is an Indian e-commerce platform launched by Flipkart in July 2021 to target budget-conscious shoppers, especially in Tier-2 and smaller cities. Initially designed to enable social reselling, it evolved into a zero-commission marketplace offering affordable products in fashion, beauty, electronics, and groceries. Headquartered in Bengaluru and part of the Walmart-owned Flipkart group, Shopsy reached 100 million users by August 2022 and focuses on making online shopping accessible to first-time internet users through value-driven offerings. (Note: This should not be confused with Shopsy's, a Canadian Jewish deli chain owned by Maple Leaf Foods.)"
+  }
+];
