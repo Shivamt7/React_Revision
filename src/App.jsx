@@ -1,10 +1,12 @@
-import Page from "./components/ReusableComponentWithConditionalRendering/Page"
+// import Page from "./components/ReusableComponentWithConditionalRendering/Page"
+import UpdatationUseState from "./components/UseStateComponent/UpdatationUseState"
 
 function App() {
 
   return (
     <>
-    <Page />
+    {/* <Page /> */}
+    <UpdatationUseState />
     </>
   )
 }
